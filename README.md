@@ -1,13 +1,23 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMH23M002_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM2302-9x-1_BMC21M0x1_V1.0.png" width="480" height="240"> 
 </div> 
 
-BMH23M002 
+BM2302-9x-1 
 ===========================================================
 
-The Best Modules BMH23M001 is a high precision 24-bit ADC module, which uses the I2C or SPI communication method. This document provides the description of the BMH23M002 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the sensor AD value.
+The BM2302-9x-1 is a Sub-1G OOK receiver transparent transmission module from the Best Modules, which uses the I2C/UART communication method. This document describes the Arduino Lib function of the BM2302-9x-1 and how to install the Arduino Lib. The examples demonstrate how to use the BMC23M0x1 module to pair with the Sub-1G OOK transmitter transparent transmission module BMC21M0x1, data exchange and other functions.
 
-This library can be installed via the Arduino Library manager. Search for **BMH23M002**. 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                                        |
+|:---------:|:-------------------------------------------------:|
+|BM2302-9x-1|Sub-1G OOK receiver transparent transmission module|
+|BMC23M0x1  |On-board BM2302-9x-1 module                        |
+
+</div> 
+
+This library can be installed via the Arduino Library manager. Search for **BM2302-9x-1**. 
 
 Repository Contents
 -------------------
@@ -20,7 +30,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH23M002 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmh23m002.html#tab-product2 )** - Arduino Library Description.
+* **[BM2302-9x-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm2302-9x-1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
