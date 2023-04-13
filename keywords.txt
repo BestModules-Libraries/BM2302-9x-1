@@ -1,0 +1,39 @@
+########################################################
+#Coloring Map For BM2302-9x-1 library
+########################################################
+########################################################
+#Classes and Objects (KEYWORD1)
+########################################################
+BM2302_9x_1	KEYWORD1
+HardwareSerial	KEYWORD1
+TwoWire	KEYWORD1
+########################################################
+#Methods and Functions (KEYWORD2)
+########################################################
+getStatus	KEYWORD2
+getRFStatus	KEYWORD2
+readRFData	KEYWORD2
+setRXMode	KEYWORD2
+setPairMode	KEYWORD2
+sleep	KEYWORD2
+getFWVer	KEYWORD2
+setRFFrequencyBand	KEYWORD2
+setRFFrequency	KEYWORD2
+setTestMode	KEYWORD2
+exitTestMode	KEYWORD2
+writeBytes      KEYWORD2
+readBytes	KEYWORD2
+########################################################
+#Constants (LITERAL1)
+########################################################
+SUCCESS	LITERAL1
+FAIL	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+IIC_MODE	LITERAL1
+UART_MODE	LITERAL1
+BM2302_9x_1_Addr	LITERAL1
+BC2302_HXT_Freq	LITERAL1
+RF_315MHz	LITERAL1
+RF_433MHz	LITERAL1
+RF_868MHz	LITERAL1
+RF_915MHz	LITERAL1
