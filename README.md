@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM2302-9x-1_BMC21M0x1_V1.0.png" width="480" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM2302-9x-1_BMC23M0x1_V1.0.png" width="480" height="240"> 
 </div> 
 
 BM2302-9x-1 
